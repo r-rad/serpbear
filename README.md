@@ -7,6 +7,10 @@
 
 Install this module to resolve the Unable to resolve path to module 'fs/promises' error
 https://github.com/import-js/eslint-import-resolver-typescript
+
+npm i -D eslint-plugin-import eslint-import-resolver-typescript
+
+
 SerpBear is an Open Source Search Engine Position Tracking App. It allows you to track your website's keyword positions in Google and get notified of their positions.
 
 ![Easy to Use Search Engine Rank Tracker](https://erevanto.sirv.com/Images/serpbear/serpbear_readme_v2.gif)
